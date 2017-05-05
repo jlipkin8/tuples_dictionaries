@@ -37,7 +37,7 @@ def change_number_of_ducks(animals, duck_number):
     """
 
     # ADD YOUR CODE HERE
-    pass
+    animals['ducks'] = duck_number
 
 
 def neigh_for_horses(animals):
