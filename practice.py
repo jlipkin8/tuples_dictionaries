@@ -12,7 +12,7 @@ def get_first_element_of_tuple(employee):
     """
 
     # ADD YOUR CODE HERE
-    pass
+    return employee[0] 
 
 
 def get_number_of_horses(animals):
@@ -24,7 +24,7 @@ def get_number_of_horses(animals):
     """
 
     # ADD YOUR CODE HERE
-    pass
+    return animals["horses"]
 
 
 def change_number_of_ducks(animals, duck_number):
