@@ -53,7 +53,10 @@ def neigh_for_horses(animals):
     """
 
     # ADD YOUR CODE HERE
-    pass
+    if "horses" in animals: 
+        print "neigh"
+    else: 
+        print "no"
 
 
 
